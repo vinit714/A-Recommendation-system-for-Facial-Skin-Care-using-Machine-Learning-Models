@@ -1,1 +1,3 @@
 # A-Recommendation-system-for-Facial-Skin-Care-using-Machine-Learning-Models
+
+Recommendation systems also can generate helpful suggestions for users based on their attributes and skin analysis thanks to the enormous quantity of data that has been gathered over the previous ten years and will continue to be collected in the years to come. Many of the current models rely on collaborative filtering or content-based filtering and don't really delve in-depth to understand what the user's needs and worries are. In order to develop a hybrid model that will effectively work for the benefit of one's facial skin-care, we propose a model using KNN, CNN, Transfer Learning of Efficient Net B0, and a Recommendation engine that uses content-based filtering.
