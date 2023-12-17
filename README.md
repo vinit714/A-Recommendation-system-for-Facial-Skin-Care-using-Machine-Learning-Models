@@ -46,6 +46,39 @@ The model needs to know the user's skin features to deliver the products corresp
 
 ![image](https://github.com/vinit714/A-Recommendation-system-for-Facial-Skin-Care-using-Machine-Learning-Models/assets/52816788/a95ff28c-8e8f-4fd8-aee6-283c5185d89c)
 
+# EXPERIMENTAL RESULTS
+Below are six categorized lists of skin tones: Fair skin is described as having 
++ Light eyes and hair, is easily burned, and rarely tans
++ Brown or hazel eyes, light brown hair, and skin that is light to medium in tone with occasional burning but potential for gradual tanning
++ Brown eyes and dark brown hair are complemented by skin that is medium to olive in tone, rarely burns, and tans easily
++ Brown eyes and black hair complement dark brown complexion, which rarely burns and tans quickly
++ Black eyes and black hair complement the deeply pigmented brown complexion, which never burns and tans easily
++ Black skin: Skin that tans readily, never burns, and has black hair and eyes
+
+![Efficient_Net-based_Expert_System_for_Personalized_Facial_Skincare_Recommendations (1)](https://github.com/vinit714/A-Recommendation-system-for-Facial-Skin-Care-using-Machine-Learning-Models/assets/52816788/bd53c8a3-3646-4a79-aa31-9cf36b3a0089)
+
+The data training is done using the Python programming language and Tensorflow. Library (number 8) Plotting and other data processing tasks are accomplished using Matlab. Performance of numerous measurements at the exact location while gently moving the sensor head around the region. After that, the model was used to determine the skin type of the individual whose skin was measured.
+
+Convolutional Neural Network (CNN) analysis is used to determine the face skin type, which divides the picture into three categories: standard, oily, and dry. Transfer learning (EfficientNet B0) improves the model's accuracy, which currently has an accuracy of 87.10% compared to a validation accuracy of 80%. The capabilities of EfficientNet are shown in Table II, and they make it an ideal categorization of the skin spectrum that is exact is achievable. To demonstrate that the suggested model is superior to other methods already in use, a comparison is made between it and other methods.
+
+![Efficient_Net-based_Expert_System_for_Personalized_Facial_Skincare_Recommendations (1)](https://github.com/vinit714/A-Recommendation-system-for-Facial-Skin-Care-using-Machine-Learning-Models/assets/52816788/60eaa9ca-a701-4580-8ab1-0fb35c863a6d)
+
+One of the metrics about the skin is called the
+acne concern level, broken down into three levels: Low,
+Moderate, and Severe. Even though the acne severity level
+is categorized, it is appropriate to utilize conventionally numeric values for them: 0 - No Acne, 1 - Clear, 2 - almost
+clear, 3-Mild, 4-Moderate, and 5-Severe.
+
+![image](https://github.com/vinit714/A-Recommendation-system-for-Facial-Skin-Care-using-Machine-Learning-Models/assets/52816788/4e595c22-c4cd-4b5d-9f96-0626f14d386f)
+
+The figure depicts the breakdown of the total number of images categorized into many groups based on their degree. There is an uneven
+distribution of image classes. The acne is mainly of Class 3
+Mild kind. Both the training and the testing images have
+different severity levels. This effort was complicated
+because picture labels from dermatologists were noisy. It
+was observed that the training image collection included
+numerous identical (or nearly identical) images.
+
 
 # Keywords
 + Deep Learning
@@ -55,4 +88,12 @@ The model needs to know the user's skin features to deliver the products corresp
 + Acne
 + Transfer Learning
 + EfficicentNet
+
+# Published Paper
+
+This project has been published in an IEEE paper. For more details and in-depth information, please refer to the corresponding paper:
+
+[IEEE Paper Title](https://ieeexplore.ieee.org/document/10142790)
+
+Feel free to explore the paper for a comprehensive understanding of the project and its contributions.
 
