@@ -93,7 +93,7 @@ numerous identical (or nearly identical) images.
 
 This project has been published in an IEEE paper. For more details and in-depth information, please refer to the corresponding paper:
 
-[IEEE Paper Title](https://ieeexplore.ieee.org/document/10142790)
+[Efficient Net-based Expert System for Personalized Facial Skincare Recommendations](https://ieeexplore.ieee.org/document/10142790)
 
 Feel free to explore the paper for a comprehensive understanding of the project and its contributions.
 
