@@ -89,6 +89,28 @@ numerous identical (or nearly identical) images.
 + Transfer Learning
 + EfficicentNet
 
+# How to run
+Clone this repo, head to the root directory, and create a [Python Virtual Environment](https://www.geeksforgeeks.org/python-virtual-environment/).
+Then,
+```
+ pip install -r requirements.txt
+```
+Open 2 different Terminals, from the root folder
+On first Terminal
+```
+cd backend
+python app.py
+```
+And on another one
+```
+cd frontend
+npm install
+npm start
+```
+
+After this your web application should run on the local host and after capturing the photo it should automatically detect your facial features and on submit, it should redirect to the recommended products page.
+
+
 # Published Paper
 
 This project has been published in an IEEE paper. For more details and in-depth information, please refer to the corresponding paper:
